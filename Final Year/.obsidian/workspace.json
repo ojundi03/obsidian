@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security for Software Systems/Format String Attacks.md",
+                "file": "Embedded Systems/ARM Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security for Software Systems/Format String Attacks.md",
+                "file": "Embedded Systems/ARM Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security for Software Systems/Format String Attacks.md",
+                "file": "Embedded Systems/ARM Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security for Software Systems/Format String Attacks.md"
+                "file": "Embedded Systems/ARM Introduction.md"
               }
             }
           }
@@ -158,19 +158,22 @@
   },
   "active": "3b7d230e2d8152fb",
   "lastOpenFiles": [
+    "Pasted image 20241005141044.png",
+    "Pasted image 20241005140727.png",
+    "Pasted image 20241005140552.png",
+    "Pasted image 20241005140221.png",
+    "Embedded Systems/Introduction.md",
+    "Embedded Systems/ARM Introduction.md",
+    "Pasted image 20241005135429.png",
+    "Pasted image 20241005132453.png",
+    "Security for Software Systems/Format String Attacks.md",
+    "Embedded Systems",
     "Pasted image 20241005122409.png",
     "Pasted image 20241005122253.png",
     "Pasted image 20241005122048.png",
     "Pasted image 20241005122013.png",
     "Pasted image 20241005121750.png",
-    "Pasted image 20241005121742.png",
-    "Pasted image 20241005121449.png",
-    "Pasted image 20241005121303.png",
-    "Pasted image 20241005120658.png",
-    "Pasted image 20241005115002.png",
-    "Pasted image 20241005112620.png",
     "Security for Software Systems/TODO Buffer Overflows.md",
-    "Security for Software Systems/Format String Attacks.md",
     "Introduction.md",
     "Robotics & Kinematics/Introducti.md",
     "DOF.md",
