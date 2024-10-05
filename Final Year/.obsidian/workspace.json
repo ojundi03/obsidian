@@ -11,12 +11,8 @@
             "id": "30f0134334f60b09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Robotics & Kinematics/Introducti.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics & Kinematics/Introducti.md",
+                "file": "Security for Software Systems/Format String Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "13b2058dffe45f41",
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics & Kinematics/Introducti.md",
+                "file": "Security for Software Systems/Format String Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics & Kinematics/Introducti.md",
+                "file": "Security for Software Systems/Format String Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics & Kinematics/Introducti.md"
+                "file": "Security for Software Systems/Format String Attacks.md"
               }
             }
           }
@@ -161,13 +158,22 @@
   },
   "active": "3b7d230e2d8152fb",
   "lastOpenFiles": [
+    "Pasted image 20241005122409.png",
+    "Pasted image 20241005122253.png",
+    "Pasted image 20241005122048.png",
+    "Pasted image 20241005122013.png",
+    "Pasted image 20241005121750.png",
+    "Pasted image 20241005121742.png",
+    "Pasted image 20241005121449.png",
+    "Pasted image 20241005121303.png",
+    "Pasted image 20241005120658.png",
+    "Pasted image 20241005115002.png",
+    "Pasted image 20241005112620.png",
+    "Security for Software Systems/TODO Buffer Overflows.md",
+    "Security for Software Systems/Format String Attacks.md",
     "Introduction.md",
     "Robotics & Kinematics/Introducti.md",
     "DOF.md",
-    "Pasted image 20240915105608.png",
-    "Pasted image 20240915105427.png",
-    "Pasted image 20240915105426.png",
-    "Pasted image 20240915105425.png",
     "Robotics & Kinematics",
     "Robotics & Kinematics.md"
   ]
