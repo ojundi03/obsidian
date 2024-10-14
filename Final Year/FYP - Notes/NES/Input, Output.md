@@ -1,0 +1,8 @@
+- The NES has two general-purpose controller ports on the front of the console, and a (rarely used) 48-pin expansion port underneath. 
+- It has a set of I/O ports used for controllers and other peripherals, consiting of:
+	- One output port, 3 bits wide, acessible by writing the bottom 3 bits of `$4016`
+		- The values by `$4016/write` appear on the [`OUT0-OUT2`](https://www.nesdev.org/wiki/CPU_pin_out_and_signal_description) pins
+	- Two input ports, 5 bits wide each, are acessible by reading the bottom 5 bits of `$4016` and `$4017`. Reading them activates the [`/OE1 and OE2`](https://www.nesdev.org/wiki/CPU_pin_out_and_signal_description) signals respectively/
+		- On the NES, only D0, D3, and D4 are connected to both controller ports
+		- D0-D4 are all connected to the expansion port.
+		- These are data lines used to transfer info between components.

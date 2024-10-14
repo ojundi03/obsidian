@@ -1,7 +1,7 @@
 # Meeting 2
 - Figure out Input output
 	- Might use an IO address
-	- when you sse that reference, must be ridirected to the button
+	- when you see that reference, must be redirected to the button
 - PPU
 	- Simulate frame buffer
 - 3DS reference

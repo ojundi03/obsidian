@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "9a38e665dc301afd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e68e4d3b00873a41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4d628bd3a0c0384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other Learning/Chip-8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a6d17ecfb874443",
+    "type": "split",
+    "children": [
+      {
+        "id": "38cedf42cf8908b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c972f461cda4efe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "662e0ad1bd00d2f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c95f175a019be228",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10ebc9579cb4793a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a48f5c27a0ca40c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6f5667409a0c058",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Other Learning/Chip-8.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "170a5553c0ae49ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Other Learning/Chip-8.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9e3c72cd15327ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7007a9d24532e2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Other Learning/Chip-8.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f4d628bd3a0c0384",
+  "lastOpenFiles": [
+    "NES/NES Testing.md",
+    "Other Learning/Chip-8.md",
+    "NES/Links.md",
+    "NES/Input, Output.md",
+    "Meetings/Meeting 2.md"
+  ]
+}
